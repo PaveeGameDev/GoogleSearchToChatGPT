@@ -27,4 +27,4 @@ How to change key bindings:
 6. - Enjoy
 
 
-Creator = Patrik Holba, the author of <a href="www.copisem.cz">www.copisem.cz</a>
+Creator = Patrik Holba, the author of <a href="https://www.copisem.cz">www.copisem.cz</a>
