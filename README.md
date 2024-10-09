@@ -25,3 +25,6 @@ How to change key bindings:
 4. - Press the pen
 5. - Type in your shortcut
 6. - Enjoy
+
+
+Creator = Patrik Holba
